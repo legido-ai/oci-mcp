@@ -46,7 +46,7 @@ The key is never written to the image or a persistent volume.
 {
   "mcp": {
     "servers": {
-      "oci_cloud": {
+      "oci-cloud": {
         "type": "local",
         "enabled": true,
         "command": [
